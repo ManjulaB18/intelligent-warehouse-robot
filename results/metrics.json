@@ -1,0 +1,18 @@
+{
+  "q_learning": {
+    "Total successful deliveries": 500,
+    "Success rate (%)": 100.0,
+    "Avg steps (all episodes)": 18.0,
+    "Avg steps (successful only)": 18.0,
+    "Avg reward": 102.0,
+    "Avg collisions per episode": 0.0
+  },
+  "random": {
+    "Total successful deliveries": 22,
+    "Success rate (%)": 4.4,
+    "Avg steps (all episodes)": 197.9,
+    "Avg steps (successful only)": 152.3,
+    "Avg reward": -694.2,
+    "Avg collisions per episode": 50.7
+  }
+}
